@@ -1,0 +1,6 @@
+@KH.Lab.KeyCloakLab_HostAddress = http://localhost:5268
+
+GET {{KH.Lab.KeyCloakLab_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
